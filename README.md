@@ -17,7 +17,7 @@
 <!-- Sobre mim -->
 ## 👨‍💻 Sobre mim
 
-Sou um Cientista de Dados em formação (4/8) interessado em **Machine Learning**, **Deep Learning**, **Estatística Avançada** e **Visualização de Dados**. Minha motivação é aplicar técnicas de análise e modelagem para resolver problemas reais, aplico boa parte dos meus conhecimentos na empresa que tenho focado em geotecnologias.
+Sou um Cientista de Computação em formação (4/8) interessado em **Machine Learning**, **Deep Learning**, **Estatística Avançada** e **Visualização de Dados**. Minha motivação é aplicar técnicas de análise e modelagem para resolver problemas reais, aplico boa parte dos meus conhecimentos na empresa que tenho focado em geotecnologias.
 
 - 🌱 Atualmente me aprofundando em **NLP (Processamento de Linguagem Natural)** e **Modelos de Machine Learning em produção**.
 - 🔭 Trabalhando em projetos de previsão de demanda e detecção de anomalias.
