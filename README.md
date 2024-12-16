@@ -58,7 +58,7 @@ Sou um Cientista de Computação em formação (4/8) interessado em **Machine Le
 
 ## ✉️ Contato
 
-- **E-mail:** [liniker.seuemail@exemplo.com](mailto:liniker.patricio@gmail.com)
+- **E-mail:** [liniker.patricio@gmail.com](mailto:liniker.patricio@gmail.com)
 - **LinkedIn:** [Liniker Patricio](https://www.linkedin.com/in/liniker-patricio-568683134/)
 
 Fique à vontade para se conectar, colaborar ou apenas bater um papo sobre dados, tecnologia e ciência!
