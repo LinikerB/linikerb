@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">Olá, eu sou o Liniker Patricio! 👋</h1>
-<h3 align="center">Cientista de Dados apaixonado por transformar dados em valor.</h3>
+<h3 align="center">Cientista da computação apaixonado por transformar dados em valor.</h3>
 
 <!-- Badges e Status -->
 <p align="center">
@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9DtpLg5IU1ygtG8R39d2MfNaMlTX7KXSllGddEj-BEdnjRi92il3IMt8YhrdU6nTlLXT9bKgTHRFGnH4hlyV2Kg5ZHRdjWOglhIYXRqbptt5g2z9lBxlc1Ciqd4lwfBNOG-_lFntufFU/s1600/matrix+ye%C5%9Fil+yaz%C4%B1lar+(3).gif" alt="Matrix Divider" width="1000" height="200"/>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9DtpLg5IU1ygtG8R39d2MfNaMlTX7KXSllGddEj-BEdnjRi92il3IMt8YhrdU6nTlLXT9bKgTHRFGnH4hlyV2Kg5ZHRdjWOglhIYXRqbptt5g2z9lBxlc1Ciqd4lwfBNOG-_lFntufFU/s1600/matrix+ye%C5%9Fil+yaz%C4%B1lar+(3).gif" alt="Matrix Divider" width="1000" height="100"/>
 </p>
 
 <!-- Sobre mim -->
