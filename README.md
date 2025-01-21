@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">Olá, eu sou o Liniker Patricio! 👋</h1>
-<h3 align="center">Cientista da computação apaixonado por transformar dados em valor.</h3>
+<h3 align="center">Transformando dados em valor.</h3>
 
 <!-- Badges e Status -->
 <p align="center">
