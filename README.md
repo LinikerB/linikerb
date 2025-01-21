@@ -39,6 +39,12 @@ Sou um Cientista de Computação em formação (4/8) interessado em **Machine Le
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" style="margin:5px;" />
 </div>
 
+## 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=linikerb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=linikerb&layout=compact&langs_count=8&theme=dark)
+
 **Metodologias e Conceitos:**
 - Análise Exploratória de Dados (EDA)
 - Modelagem Preditiva e Classificatória
