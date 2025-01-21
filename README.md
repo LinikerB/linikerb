@@ -41,7 +41,7 @@ Sou um Cientista de Computação em formação (4/8) interessado em **Machine Le
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=linikerb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=linikerb&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=linikerb&layout=compact&langs_count=8&theme=dark)
 
