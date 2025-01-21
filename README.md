@@ -47,15 +47,6 @@ Sou um Cientista de Computação em formação (4/8) interessado em **Machine Le
 - Deploy de Modelos e Integração Contínua
 - Testes A/B e Métricas de Performance
 
-
-## 📊 Estatísticas do GitHub
-
-<p align="center" gap=10px>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LinikerB&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinikerB&layout=compact&theme=dark"/>
-</p>
-
-
 ## ✉️ Contato
 
 - **E-mail:** [liniker.patricio@gmail.com](mailto:liniker.patricio@gmail.com)
